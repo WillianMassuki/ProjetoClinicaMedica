@@ -1,0 +1,91 @@
+package br.com.projetoclinicamedica.paciente.enuns;
+
+public enum ConvenioEnum {
+    ALICE_SAUDE,
+    ALLIANZ_SAUDE,
+    AMEPLAN_SAUDE,
+    AMIL_FACIL,
+    AMIL_SAUDE,
+    ANA_COSTA_SAUDE,
+
+    ATIVIA,
+
+    BENEVIDA,
+
+    BIOSAUDE,
+
+    BIOVIDA_SAUDE,
+
+    BLUE_MED_SAUDE,
+
+    BRADESCO_SAUDE,
+
+    CARE_PLUS,
+
+    CLASSES_LABORIOSAS,
+
+    CUIDAR_ME,
+
+    CRUZ_AZUL_SAUDE,
+
+    GS_SAUDE,
+
+    GOLDEN_CROSS,
+
+    HAPVIDA,
+
+    HEALTH_SANTARIS,
+
+    INTERCLINICAS_SAUDE,
+
+    KIPP_SAUDE,
+
+    MEDICAL_HEALTH,
+
+    MEDSENIOR,
+
+    MED_TOUR_SAUDE,
+
+    NOTRE_DAME_INTERMEDICA,
+
+    PLANSAUDE,
+
+    PLENA_SAUDE,
+
+    PORTO_SEGURO_SAUDE,
+
+    PREVENT_SENIOR,
+
+    QSAUDE,
+
+    SAGRADA_FAMILIA_SAUDE,
+
+    SAMI_SAUDE,
+
+    SANTA_HELENA_SAUDE,
+
+    SAO_CRISTOVAO_SAUDE,
+
+    SAO_MIGUEL_SAUDE,
+
+    SEGUROS_UNIMED,
+
+    SOMPO_SAUDE,
+
+    SUL_AMERICA_SAUDE,
+
+    TOTAL_MEDCARE_SAUDE,
+
+    TRASMONTANO_SAUDE,
+
+    UNICA_SAUDE,
+
+    UNIHOSP_SAUDE,
+
+    UNIMED_NACIONAL,
+
+
+
+
+
+    }
