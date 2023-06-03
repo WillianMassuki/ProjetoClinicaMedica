@@ -19,6 +19,7 @@ public class PacienteController {
 
     private final PacienteService pacienteService;
 
+
     @GetMapping
     @Operation(summary = "Listar tudo")
     List<PacienteVO> findAll()
